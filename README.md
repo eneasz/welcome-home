@@ -9,8 +9,20 @@ Simple script dedicated to specific setup Ubiquiti Networks UniFi access point +
 The script compares curent time with today's sunrise and sunset times. If it's 30 min before sunset or sunrise and script will detect your device, for example mobile phone logging in to wifi AC, it will send a signal to lightwaverf bridge to switch on or off specific device.
 
 # Running 
+
+- Please update hello-home.py
+```
+home.lat = '51:28:38'
+```
+To match your location. This wil quarantee corect sunrise/sunset times
+
+- Instal requirements
 ```sh
 $ pip install -r requirements.txt
+```
+
+- Run script -h to display menu
+```sh
 $ ./hello-home.py -h
 usage: hello-home.py [-h] [-c CONTROLLER] [-u USERNAME] [-p PASSWORD]
                      [-b CPORT] [-v VERSION] [-s SITEID] [-l LIGHTWAVERF]
