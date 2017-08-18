@@ -11,7 +11,7 @@ The script compares curent time with today's sunrise and sunset times. If it's 3
 # Running 
 ```sh
 $ pip install -r requirements.txt
-$ ././hello-home.py -h
+$ ./hello-home.py -h
 usage: hello-home.py [-h] [-c CONTROLLER] [-u USERNAME] [-p PASSWORD]
                      [-b CPORT] [-v VERSION] [-s SITEID] [-l LIGHTWAVERF]
                      [-t LPORT] [-a ACTIVATE] [-m MAC]
