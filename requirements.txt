@@ -1,6 +1,6 @@
 Cython==0.26
 pyOpenSSL==18.0.0
-cryptography==3.2
+cryptography==3.3.2
 python_dateutil==2.6.1
 ed25519ll==0.6
 pyephem==3.7.6.0
@@ -8,10 +8,10 @@ protobuf==3.4.0
 ipaddr==2.2.0
 jsonschema==2.6.0
 keyring==10.4.0
-lxml==4.6.2
+lxml==4.6.3
 mock==2.0.0
 ndg_httpsclient==0.4.2
-numpy==1.15.0
+numpy==1.16.3
 pyasn1==0.3.2
 pytest==3.2.1
 redis==2.10.6
