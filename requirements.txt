@@ -11,7 +11,7 @@ keyring==10.4.0
 lxml==4.6.2
 mock==2.0.0
 ndg_httpsclient==0.4.2
-numpy==1.15.0
+numpy==1.22.0
 pyasn1==0.3.2
 pytest==3.2.1
 redis==2.10.6
