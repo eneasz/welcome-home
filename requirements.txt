@@ -14,7 +14,7 @@ ndg_httpsclient==0.4.2
 numpy==1.22.2
 pyasn1==0.3.2
 pytest==3.2.1
-redis==2.10.6
+redis==4.4.4
 simplejson==3.11.1
 wincertstore==0.2
 pyxdg==0.26
