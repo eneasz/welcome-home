@@ -1,6 +1,6 @@
 Cython==0.26
 pyOpenSSL==18.0.0
-cryptography==3.2
+cryptography==41.0.4
 python_dateutil==2.6.1
 ed25519ll==0.6
 pyephem==3.7.6.0
