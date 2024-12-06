@@ -8,7 +8,7 @@ protobuf==3.4.0
 ipaddr==2.2.0
 jsonschema==2.6.0
 keyring==10.4.0
-lxml==4.6.2
+lxml==4.6.5
 mock==2.0.0
 ndg_httpsclient==0.4.2
 numpy==1.22.2
