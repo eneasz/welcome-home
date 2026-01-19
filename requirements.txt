@@ -12,7 +12,7 @@ lxml==4.6.2
 mock==2.0.0
 ndg_httpsclient==0.4.2
 numpy==1.22.2
-pyasn1==0.3.2
+pyasn1==0.6.2
 pytest==3.2.1
 redis==4.4.4
 simplejson==3.11.1
